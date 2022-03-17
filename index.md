@@ -82,6 +82,12 @@ abline(h = 777, col = "black", lwd = 10)
 
 final_meme %>% image_write(path = "images/my_meme.png", format = "png")
 ```
+### Image Sources
+- https://imgflip.com/memetemplate/240650289/I-need-spongebob
+- https://knowyourmeme.com/photos/1842748-go-to-horny-jail
+- https://imgflip.com/memegenerator/139971723/Spongebob-Burning-Paper
+- https://knowyourmeme.com/photos/1908788-wholesome-memes
+
 
 ## Why is the Meme Original?
 1. It uses a similar format as the [**Drake yes/no**](https://knowyourmeme.com/memes/drakeposting) meme but with dogs
@@ -96,3 +102,4 @@ final_meme %>% image_write(path = "images/my_meme.png", format = "png")
 7. Mentioning machine learning has been a trend these days so I also did :)
 
 In total, my glorious piece of art uses six different meme references all in one and makes funny references to data science practices, something the world has never seen before 🔥.
+
