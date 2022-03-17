@@ -87,7 +87,7 @@ final_meme %>% image_write(path = "images/my_meme.png", format = "png")
 1. It uses a similar format as the [**Drake yes/no**](https://knowyourmeme.com/memes/drakeposting) meme but with dogs
 2. Uses a modified [**go to horny jail**](https://knowyourmeme.com/memes/go-to-horny-jail) meme as the "No" reaction
 3. The go to horny jail has the [**laser eyes meme**](https://knowyourmeme.com/memes/glowing-eyes-laser-eyes) on it making it funnier
-4. Uses 2 different popular Spongebob meme in addition to [**Spongebob himself being a meme**](https://knowyourmeme.com/memes/subcultures/spongebob-squarepants)
+4. Uses 2 different popular Spongebob meme, in addition to [**Spongebob himself being a meme**](https://knowyourmeme.com/memes/subcultures/spongebob-squarepants)
     1. The [**Come Closer I Need**](https://knowyourmeme.com/memes/come-closer-i-need) Spongebob meme
     2. The **Spongebob burning paper meme**
 5. "Gud" is spelt in a funny way
