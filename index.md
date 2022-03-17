@@ -7,7 +7,6 @@
 ```r
 library(magick)
 
-
 # from https://imgflip.com/memetemplate/240650289/I-need-spongebob
 i_need_meme <- image_read("https://i.imgflip.com/3z9yy9.png") %>% 
     image_crop("1200x2000+0+200") %>%
@@ -27,7 +26,6 @@ yes_dog <- image_read("https://i.kym-cdn.com/photos/images/newsfeed/001/908/788/
     image_crop("550x350+50+100") %>%
     image_scale("743")
 
-
 large_r_logo <- image_blank(width = 800, height=620, color="white") %>% 
     image_composite(image_read("images/R_logo.png")) %>%
     image_scale("80")
@@ -43,7 +41,6 @@ edited_i_need_meme <- i_need_meme %>%
     image_composite(large_r_logo, offset="+260+15") %>% 
     image_composite(small_r_logo, offset="+130+340") %>%
     image_composite(small_r_logo, offset="+380+340")
-
 
 top_level <- c(edited_i_need_meme, no_dog) %>% 
     image_append()
@@ -63,7 +60,6 @@ edited_burning_paper_meme <- burning_paper_meme %>%
 
 edited_yes_dog <- yes_dog %>% 
     image_annotate("gud", size=60, color = "black", weight=800, location = "+325+500")
-
 
 bottom_level <- c(edited_burning_paper_meme, edited_yes_dog) %>% 
     image_append()
