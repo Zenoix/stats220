@@ -4,7 +4,7 @@
 ![My meme](my_meme.png)
 
 ## Motivation Behind the Meme
-What motivated me to make such a _masterpiece of a meme_ was the fact that I was being assessed on my ability to create said meme for this course. Of course I wanted to do well so I thought hard about a good meme to create. A data science related meme (which I achieved to make was **even better**. Haha of course I jest :trollface:. I wanted to practice using the R programming language and the magick package to see what my creativity and googling skills could create :art::grin:.
+What motivated me to make such a _masterpiece of a meme_ was the fact that I was being assessed on my ability to create said meme for this course. Of course I wanted to do well so I thought hard about a good meme to create. A data science related meme (which I achieved to make) would have been _**even better**_. Haha of course I jest :trollface:. I wanted to practice using the R programming language and the magick package to see what my creativity and googling skills could create :art::grin:.
 
 ## What I Used to Make That Meme :point_up:
 ### Tools Used
