@@ -33,7 +33,7 @@ yes_dog <- image_read("https://i.kym-cdn.com/photos/images/newsfeed/001/908/788/
     image_crop("550x350+50+100") %>%
     image_scale("743")
 
-large_r_logo <- image_blank(width = 800, height=620, color="white") %>% 
+large_r_logo <- image_blank(width = 800, height = 620, color = "white") %>% 
     image_composite(image_read("images/R_logo.png")) %>%
     image_scale("80")
 
