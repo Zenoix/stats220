@@ -93,6 +93,6 @@ final_meme %>% image_write(path = "images/my_meme.png", format = "png")
 5. "Gud" is spelt in a funny way
 5. It is data science related with a reference to R and the need to handle missing data in an appropriate way
 6. The meme actually does not recommend an appropriate way to handle missing data but instead recommends to just drop all rows that contain missing values. This potentially increases the issues with the data and may introduce bias
-7. Mentioning machine learning is a trend so I did :)
+7. Mentioning machine learning has been a trend these days so I also did :)
 
 In total, my glorious piece of art uses six different meme references all in one, and makes funny references to data science practices.
