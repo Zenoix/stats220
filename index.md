@@ -3,14 +3,17 @@
 ## My Meme I Made With R and Magick
 ![My meme](my_meme.png)
 
-## What I Used to Make That Meme
+## Motivation Behind the Meme
+What motivated me to make such a _masterpiece of a meme_ was the fact that I was being assessed on my ability to create said meme for this course. Of course I wanted to do well so I thought hard about a good meme to create. A data science related meme (which I achieved to make was **even better**. Haha of course I jest :trollface:. I wanted to practice using the R programming language and the magick package to see what my creativity and googling skills could create :art::grin:.
+
+## What I Used to Make That Meme :point_up:
 ### Tools Used
 So the tools I used to make the meme were:
-- The **R** programming language (Can be downloaded at [this link](https://www.r-project.org/))
-- The **magick** R package ([Link to the package](https://cran.r-project.org/web/packages/magick/vignettes/intro.html))
-- The **graphics** package (included in base R)
+1. The **R** programming language _version 4.1.3_ (Can be downloaded at [this link](https://www.r-project.org/))
+2. The **magick** R package ([Link to the package](https://cran.r-project.org/web/packages/magick/vignettes/intro.html))
+3. The **graphics** package (included in base R)
 
-### Code
+### Source Code
 ```r
 library(magick)
 
@@ -80,4 +83,18 @@ abline(h = 777, col = "black", lwd = 10)
 final_meme %>% image_write(path = "images/my_meme.png", format = "png")
 ```
 
+## How I Made the Meme
 
+
+## Why is the Meme Original?
+1. It uses a similar format as the [**Drake yes/no**](https://knowyourmeme.com/memes/drakeposting) meme but with dogs
+2. Uses a modified [**go to horny jail**](https://knowyourmeme.com/memes/go-to-horny-jail) meme as the "No" reaction
+3. The go to horny jail has the [**laser eyes meme**](https://knowyourmeme.com/memes/glowing-eyes-laser-eyes) on it making it funnier
+4. Uses 2 different popular Spongebob meme in addition to [Spongebob himself being a meme](https://knowyourmeme.com/memes/subcultures/spongebob-squarepants)
+    1. The [Come Closer I Need](https://knowyourmeme.com/memes/come-closer-i-need) Spongebob meme
+    2. The Spongebob burning paper meme
+5. It is data science related with a reference to R and the need to handle missing data in an appropriate way
+6. The meme actually does not recommend an appropriate way to handle missing data but instead recommends to just drop all rows that contain missing values. This potentially increases the issues with the data and may introduce bias
+7. Mentioning machine learning is a trend so I did :)
+
+In total, my glorious piece of art uses six different meme references all in one, and makes funny references to data science practices.
