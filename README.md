@@ -1,3 +1,3 @@
 # stats220
 
-[Repo link](https://github.com/Zenoix/stats220)
+[Website link](https://zenoix.github.io/stats220/)
