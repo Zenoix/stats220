@@ -83,10 +83,10 @@ abline(h = 777, col = "black", lwd = 10)
 final_meme %>% image_write(path = "images/my_meme.png", format = "png")
 ```
 ### Image Sources
-- https://imgflip.com/memetemplate/240650289/I-need-spongebob
-- https://knowyourmeme.com/photos/1842748-go-to-horny-jail
-- https://imgflip.com/memegenerator/139971723/Spongebob-Burning-Paper
-- https://knowyourmeme.com/photos/1908788-wholesome-memes
+- [https://imgflip.com/memetemplate/240650289/I-need-spongebob](https://imgflip.com/memetemplate/240650289/I-need-spongebob)
+- [https://knowyourmeme.com/photos/1842748-go-to-horny-jail](https://knowyourmeme.com/photos/1842748-go-to-horny-jail)
+- [https://imgflip.com/memegenerator/139971723/Spongebob-Burning-Paper](https://imgflip.com/memegenerator/139971723/Spongebob-Burning-Paper)
+- [https://knowyourmeme.com/photos/1908788-wholesome-memes](https://knowyourmeme.com/photos/1908788-wholesome-memes)
 
 
 ## Why is the Meme Original?
