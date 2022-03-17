@@ -72,3 +72,9 @@ abline(h=777, col="black", lwd=10)
 
 final_meme %>% image_write(path="images/my_meme.png", format="png")
 ```
+
+### Tools Used
+So the tools I used to make the meme were:
+- The **R** programming language (Can be downloaded at [this link](https://www.r-project.org/))
+- The **magick** R package ([Link to the package](https://cran.r-project.org/web/packages/magick/vignettes/intro.html))
+- The **graphics** package (included in base R)
