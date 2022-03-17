@@ -8,7 +8,7 @@ What motivated me to make such a _masterpiece of a meme_ was the fact that I was
 
 ## What I Used to Make That Meme :point_up:
 ### Tools Used
-So the tools I used to make the meme were:
+The tools I used to make the meme were:
 1. The **R** programming language _version 4.1.3_ (Can be downloaded at [this link](https://www.r-project.org/))
 2. The **magick** R package ([Link to the package](https://cran.r-project.org/web/packages/magick/vignettes/intro.html))
 3. The **graphics** package (included in base R)
